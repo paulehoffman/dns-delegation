@@ -1,4 +1,4 @@
-(This is Paul's first guess, doesn't match the BoF proposal, hasn't been reviewed at all yet)
+(This is Paul and Wes' first guesses, doesn't match the BoF proposal, hasn't been reviewed at all yet)
 
 # New DNS Delegation BoF
 IETF 119, Brisbane
@@ -16,14 +16,14 @@ Wes Hardaker and Paul Hoffman, co-chairs
 
 ## Reasons for better methods of DNS delegation: 40 minutes
 - Exact presentations and presenters TBD
-- MIC: clarification questions
+- Mic line: clarification questions only
 
 ## draft-dnsop-deleg: Co-authors, 20 minutes
 - Initial proposed technical specification, format, and basic
   operational considerations
-- MIC: clarification questions
+- Mic line: clarification questions only
 
-## BOF discussion and success questions - 25 minutes
+## BOF discussion and success questions: Co-chairs, 25 minutes
 - Is the problem and scope well defined and properly scoped?
 - Are the deliverables correct?
 - Is the IETF the right place to solve this problem?
@@ -32,5 +32,5 @@ Wes Hardaker and Paul Hoffman, co-chairs
 
 ## Charter discussion: Co-chairs, 20 minutes
 - Deliverables
-- Working Group Timeline
+- Working group timeline
 
