@@ -29,6 +29,7 @@ Wes Hardaker and Paul Hoffman, co-chairs
 - Is the IETF the right place to solve this problem?
 - Are there enough participants to help?
 - Is the working group likely to succeed?
+- Mic line
 
 ## Charter discussion: Co-chairs, 20 minutes
 - Deliverables
