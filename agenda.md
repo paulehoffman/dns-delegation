@@ -23,13 +23,8 @@ Wes Hardaker and Paul Hoffman, co-chairs
   operational considerations
 - Mic line: clarification questions only
 
-## BOF discussion and success questions: Co-chairs, 25 minutes
-- Is the problem and scope well defined and properly scoped?
-- Are the deliverables correct?
-- Is the IETF the right place to solve this problem?
-- Are there enough participants to help?
-- Is the working group likely to succeed?
-- Mic line
+## Discussion: Co-chairs, 25 minutes
+- Mic line: open discussion
 
 ## Charter discussion: Co-chairs, 20 minutes
 - Deliverables
