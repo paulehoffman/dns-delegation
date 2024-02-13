@@ -7,19 +7,30 @@ Wes Hardaker and Paul Hoffman, co-chairs
 ## Introduction, Note Well, agenda: Co-chairs, 5 minutes
 
 ## Status: Co-chairs, 10 minutes
-- DNSOP WG interim
-- New mailing list
-- draft-dnsop-deleg
-- Other docs
+- New mailing list created: dd@ietf.org
+- draft-dnsop-deleg: initial draft from the proponents
+- DNSOP WG interim held about a proposal on 2024-01-30
+- Other documents
+
+[draft-dnsop-deleg]: https://datatracker.ietf.org/doc/draft-dnsop-deleg/
 
 ## Reasons for better methods of DNS delegation: 40 minutes
-- Maybe two presenters
-- Mic line
+- Exact presentations and presenters TBD
+- MIC: clarification questions
 
 ## draft-dnsop-deleg: Co-authors, 20 minutes
-- Initial technical specification, format, and basic operational considerations
+- Initial proposed technical specification, format, and basic
+  operational considerations
+- MIC: clarification questions
+
+## BOF related questions and discussion
+- Is the problem and scope well defined and properly scoped?
+- Are the deliverables correct?
+- Is the IETF the right place to solve this problem?
+- Are there enough participants to help?
+- Is the working group likely to succeed?
 
 ## Charter discussion: Co-chairs, 45 minutes
 - Deliverables
-- Realistic timelines
+- Working Group Timeline
 
