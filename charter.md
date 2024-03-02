@@ -17,7 +17,7 @@ The working group will also list the other types of information not available to
 The working group will then define the semantics of a new signaling mechanism, taking future extensibility into account.
 
 The first use case for this DNS delegation signaling mechanism is expected to be delegation aliasing, where the parent returns a pointer to the service provider that will then return the needed delegation information.
-This use case has been discussed for many years in the DNSOP and other Working Groups.
+This use case has been discussed for many years in the DNSOP and other working groups.
 
 The working group will only specify extensions to the DNS protocol that relate to delegation.
 
