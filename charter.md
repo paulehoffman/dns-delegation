@@ -12,11 +12,11 @@ Software deployments exist in environments that range from small CPE devices and
 
 To address these challenges, the working group will first develop the requirements for adding a new signaling mechanism that allows parents to return DNS delegation information to resolvers.
 
-The working group will also list the other types of information not available today that might be be provided over a designed signaling mechanism.
+The working group will also list the other types of information not available today that might be provided over a designed signaling mechanism.
 
 The working group will then define the semantics of a new signaling mechanism, taking future extensibility into account.
 
-The first use case for this DNS delegation signalling mechanism is expected to be delegation aliasing, where the parent returns a pointer to service provider that will then return the needed delegation information.
+The first use case for this DNS delegation signaling mechanism is expected to be delegation aliasing, where the parent returns a pointer to the service provider that will then return the needed delegation information.
 This use case has been discussed for many years in the DNSOP and other Working Groups.
 
 The working group will only specify extensions to the DNS protocol that relate to delegation.
