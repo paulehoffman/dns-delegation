@@ -25,7 +25,7 @@ Wes Hardaker and Paul Hoffman, co-chairs
 - Mic line: open discussion
 
 ## Charter discussion: Co-chairs, 40 minutes
-- LINK TO PDF OF CHARTER
+- [Recent charter wording](https://datatracker.ietf.org/doc/slides-119-deleg-proposed-charter-as-of-2024-03-05/)
 - Discussion from the mailing list
 - Mic line
     - Background and Problem Space
