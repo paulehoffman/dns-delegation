@@ -18,6 +18,7 @@ The working group will then define the semantics of a new signaling mechanism, t
 
 The first use case for this DNS delegation signaling mechanism is expected to be delegation aliasing, where the parent returns a pointer to the service provider that will then return the needed delegation information.
 This use case has been discussed for many years in the DNSOP and other working groups.
+Another use case that has been widely discussed is facilitating the use of encrypted transports for DNS.
 
 The working group will only specify extensions to the DNS protocol that relate to delegation.
 
@@ -33,5 +34,8 @@ This need not be published as an RFC and may remain as an Internet-draft.
 This is expected to become a standards-track RFC.
 
 - A specification for how to use the new delegation attribute signaling mechanism to perform aliasing for delegation.
+This is expected to become a standards-track RFC.
+
+- A specification for facilitating the use of encrypted transports for DNS.
 This is expected to become a standards-track RFC.
 
