@@ -13,6 +13,7 @@ Wes Hardaker and Paul Hoffman, co-chairs
 - DNSOP WG interim held about a proposal on 2024-01-30
 
 ## Reasons for better methods of DNS delegation: 30 minutes
+- Limitations, Goals & Requirements for delegations - Roy Arends
 - DELEG for Encrypted DNS - Manu Bretelle
 - Why I'm excited about DELEG - Ben Schwartz
 - DELEG for DBOUND - Peter Thomassen
