@@ -1,5 +1,3 @@
-(This is Paul and Wes' first guesses, doesn't match the BoF proposal, hasn't been reviewed at all yet)
-
 # New DNS Delegation BoF
 IETF 119, Brisbane
 2024-03-19  0930-1130
