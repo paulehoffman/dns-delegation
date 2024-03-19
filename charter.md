@@ -11,20 +11,29 @@ To address these challenges, the working group will first develop the requiremen
 
 The working group will also list the other types of information not available today that might be provided over a designed signaling mechanism.
 
-The potential first use cases for the working group to concentrate on will potentially be new DNS authoritative signaling mechanisms may be encrypted transport and delegation aliasing, where the parent returns a pointer to the service provider that will then return the needed delegation information.  The working group should also consider the deploy ability of different solutions and studying unforeseen consequences.
+The potential first use cases for the working group will be new DNS authoritative signaling mechanisms for alternative DNS transports,
+and delegation aliasing (where the parent returns a pointer to the service provider that will then return the needed delegation information).
+The working group should also consider the how well different solutions can be deployed, and should study possible negative consequences of deploying alternative delegation mechanisms.
 
 The working group will then define the semantics of a new signaling mechanism, taking future extensibility into account.
 
-The working group will specify extensions to the DNS, EPP and other protocols that relate to delegation.  The working group will coordinate with other working groups about extensions as appropriate.
+The working group will specify extensions to the DNS, EPP, and other protocols that relate to delegation.
+The working group will coordinate with other working groups as appropriate.
 
 # Deliverables
 
 TODO: less limitation just between signaling between the parent and resolver
+
 TODO: drop list of features and prioritization?
+
 TODO: need IETF last call on the first document -- make it an RFC
+
 TODO: remove encrypted from "encrypted transport" to concentrate on other beneficial 
+
 TODO: document to list mechanisms for parent zone -- get text from Geoff
+
 TODO: better describe that there doesn't need to be three documents and one combined one instead
+
 TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
 
 - A document listing the consensus-derived requirements for a new signaling mechanism between a parent and a resolver about communication parameters available for communicating with a delegated child.
@@ -33,7 +42,7 @@ This need not be published as an RFC and may remain as an Internet-draft.
 - A document listing, and ideally prioritizing, new delegation attributes to be distributed from parents that would benefit resolver and child communications.
 This need not be published as an RFC and may remain as an Internet-draft.
 
-- A document to list options/mechanisms for a parent zone (operator) to assemble the necessary information that permits it to authoritatively serve delegation information.
+- A document listing options or mechanisms for a parent zone operator to assemble the necessary information that permits it to authoritatively serve delegation information.
 
 - A specification defining the new delegation attribute signaling mechanism.
 This is expected to become a standards-track RFC.
