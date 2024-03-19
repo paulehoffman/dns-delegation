@@ -33,6 +33,8 @@ This need not be published as an RFC and may remain as an Internet-draft.
 - A document listing, and ideally prioritizing, new delegation attributes to be distributed from parents that would benefit resolver and child communications.
 This need not be published as an RFC and may remain as an Internet-draft.
 
+- A document to list options/mechanisms for a parent zone (operator) to assemble the necessary information that permits it to authoritatively serve delegation information.
+
 - A specification defining the new delegation attribute signaling mechanism.
 This is expected to become a standards-track RFC.
 
