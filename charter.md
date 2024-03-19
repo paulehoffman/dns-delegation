@@ -11,15 +11,21 @@ To address these challenges, the working group will first develop the requiremen
 
 The working group will also list the other types of information not available today that might be provided over a designed signaling mechanism.
 
+The potential first use cases for the working group to concentrate on will potentially be new DNS authoritative signaling mechanisms may be encrypted transport and delegation aliasing, where the parent returns a pointer to the service provider that will then return the needed delegation information.  The working group should also consider the deploy ability of different solutions and studying unforeseen consequences.
+
 The working group will then define the semantics of a new signaling mechanism, taking future extensibility into account.
 
-The first use case for this DNS delegation signaling mechanism is expected to be delegation aliasing, where the parent returns a pointer to the service provider that will then return the needed delegation information.
-This use case has been discussed for many years in the DNSOP and other working groups.
-Another use case that has been widely discussed is facilitating the use of encrypted transports for DNS.
-
-The working group will only specify extensions to the DNS protocol that relate to delegation.
+The working group will specify extensions to the DNS, EPP and other protocols that relate to delegation.  The working group will coordinate with other working groups about extensions as appropriate.
 
 # Deliverables
+
+TODO: less limitation just between signaling between the parent and resolver
+TODO: drop list of features and prioritization?
+TODO: need IETF last call on the first document -- make it an RFC
+TODO: remove encrypted from "encrypted transport" to concentrate on other beneficial 
+TODO: document to list mechanisms for parent zone -- get text from Geoff
+TODO: better describe that there doesn't need to be three documents and one combined one instead
+TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
 
 - A document listing the consensus-derived requirements for a new signaling mechanism between a parent and a resolver about communication parameters available for communicating with a delegated child.
 This need not be published as an RFC and may remain as an Internet-draft.
