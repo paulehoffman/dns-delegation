@@ -24,8 +24,6 @@ The working group will coordinate with other working groups as appropriate.
 
 TODO: less limitation just between signaling between the parent and resolver
 
-TODO: need IETF last call on the first document -- make it an RFC
-
 TODO: remove encrypted from "encrypted transport" to concentrate on other beneficial 
 
 TODO: document to list mechanisms for parent zone -- get text from Geoff
@@ -34,8 +32,7 @@ TODO: better describe that there doesn't need to be three documents and one comb
 
 TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
 
-- A document listing the consensus-derived requirements for a new signaling mechanism between a parent and a resolver about communication parameters available for communicating with a delegated child.
-This need not be published as an RFC and may remain as an Internet-draft.
+- A document listing the consensus-derived requirements for a new signaling mechanism between a parent and a resolver about communication parameters available for communicating with a delegated child.  This is expected to be published as an Informational RFC.
 
 - A document listing options or mechanisms for a parent zone operator to assemble the necessary information that permits it to authoritatively serve delegation information.
 
