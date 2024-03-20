@@ -24,8 +24,6 @@ The working group will coordinate with other working groups as appropriate.
 
 TODO: less limitation just between signaling between the parent and resolver
 
-TODO: better describe that there doesn't need to be three documents and one combined one instead
-
 TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
 
 - A document listing the consensus-derived requirements for a new signaling mechanism between a parent and a resolver about communication parameters available for communicating with a delegated child.  This is expected to be published as an Informational RFC.
@@ -33,11 +31,11 @@ TODO: consider a ramifications/etc document as a deliverable, how it will be dev
 - A document listing options or mechanisms for a parent zone operator to assemble the necessary information that permits it to authoritatively serve delegation information.
 
 - A specification defining the new delegation attribute signaling mechanism.
-This is expected to become a standards-track RFC.
+This is expected to become a standards-track RFC, or part of a combined one.
 
 - A specification for how to use the new delegation attribute signaling mechanism to perform aliasing for delegation.
-This is expected to become a standards-track RFC.
+This is expected to become a standards-track RFC, or part of a combined one.
 
 - A specification for facilitating the use of additional transports for DNS.
-This is expected to become a standards-track RFC.
+This is expected to become a standards-track RFC, or part of a combined one.
 
