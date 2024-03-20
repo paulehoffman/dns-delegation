@@ -24,8 +24,6 @@ The working group will coordinate with other working groups as appropriate.
 
 TODO: less limitation just between signaling between the parent and resolver
 
-TODO: document to list mechanisms for parent zone -- get text from Geoff
-
 TODO: better describe that there doesn't need to be three documents and one combined one instead
 
 TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
