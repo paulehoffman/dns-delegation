@@ -24,8 +24,6 @@ The working group will coordinate with other working groups as appropriate.
 
 TODO: less limitation just between signaling between the parent and resolver
 
-TODO: remove encrypted from "encrypted transport" to concentrate on other beneficial 
-
 TODO: document to list mechanisms for parent zone -- get text from Geoff
 
 TODO: better describe that there doesn't need to be three documents and one combined one instead
@@ -42,6 +40,6 @@ This is expected to become a standards-track RFC.
 - A specification for how to use the new delegation attribute signaling mechanism to perform aliasing for delegation.
 This is expected to become a standards-track RFC.
 
-- A specification for facilitating the use of encrypted transports for DNS.
+- A specification for facilitating the use of additional transports for DNS.
 This is expected to become a standards-track RFC.
 
