@@ -13,7 +13,7 @@ The working group will also list the other types of information not available to
 
 The potential first use cases for the working group will be new DNS authoritative signaling mechanisms for alternative DNS transports,
 and delegation aliasing (where the parent returns a pointer to the service provider that will then return the needed delegation information).
-The working group should also consider the how well different solutions can be deployed, and should study possible negative consequences of deploying alternative delegation mechanisms.
+The working group should also consider how well different solutions can be deployed, and should study possible negative consequences of deploying alternative delegation mechanisms.
 
 The working group will then define the semantics of a new signaling mechanism, taking future extensibility into account.
 
