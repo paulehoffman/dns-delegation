@@ -22,13 +22,11 @@ The working group will coordinate with other working groups as appropriate.
 
 # Deliverables
 
-TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
-
 - A document listing the consensus-derived requirements for a new signaling mechanism for parents to return additional information and communication parameters available when communicating with a delegated child.  This is expected to be published as an Informational RFC.
 
 - A document listing options or mechanisms for a parent zone operator to assemble the necessary information that permits it to authoritatively serve delegation information.
 
-- A specification defining the new delegation attribute signaling mechanism.
+- A specification defining the new delegation attribute signaling mechanism.  This document should include a section operational and deployment considerations.
 This is expected to documented within a standards-track RFC.
 
 - A specification for how to use the new delegation attribute signaling mechanism to perform aliasing for delegation.
