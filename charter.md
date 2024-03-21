@@ -7,7 +7,7 @@ A significant issue in today's deployed DNS that derives from these issues is da
 
 # Objective and Scope
 
-To address these challenges, the working group will first develop the requirements for adding a new signaling mechanism that allows parents to return DNS delegation information to resolvers.
+To address these challenges, the working group will first develop the requirements for adding a new signaling mechanism that allows parents to return additional DNS delegation information about their children.
 
 The working group will also list the other types of information not available today that might be provided over a designed signaling mechanism.
 
@@ -22,11 +22,9 @@ The working group will coordinate with other working groups as appropriate.
 
 # Deliverables
 
-TODO: less limitation just between signaling between the parent and resolver
-
 TODO: consider a ramifications/etc document as a deliverable, how it will be developed and deployed
 
-- A document listing the consensus-derived requirements for a new signaling mechanism between a parent and a resolver about communication parameters available for communicating with a delegated child.  This is expected to be published as an Informational RFC.
+- A document listing the consensus-derived requirements for a new signaling mechanism for parents to return additional information and communication parameters available when communicating with a delegated child.  This is expected to be published as an Informational RFC.
 
 - A document listing options or mechanisms for a parent zone operator to assemble the necessary information that permits it to authoritatively serve delegation information.
 
