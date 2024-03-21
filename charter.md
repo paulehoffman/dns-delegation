@@ -29,11 +29,11 @@ TODO: consider a ramifications/etc document as a deliverable, how it will be dev
 - A document listing options or mechanisms for a parent zone operator to assemble the necessary information that permits it to authoritatively serve delegation information.
 
 - A specification defining the new delegation attribute signaling mechanism.
-This is expected to become a standards-track RFC, or part of a combined one.
+This is expected to documented within a standards-track RFC.
 
 - A specification for how to use the new delegation attribute signaling mechanism to perform aliasing for delegation.
-This is expected to become a standards-track RFC, or part of a combined one.
+This is expected to documented within a standards-track RFC.
 
 - A specification for facilitating the use of additional transports for DNS.
-This is expected to become a standards-track RFC, or part of a combined one.
+This is expected to documented within a standards-track RFC.
 
