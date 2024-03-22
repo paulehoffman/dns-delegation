@@ -25,9 +25,7 @@ The working group will coordinate with other working groups as appropriate.
 - A document listing the requirements for a new signaling mechanism allowing parents to return additional information when communicating about a delegated child.
 This is expected to be published as an informational RFC.
 
-- A specification defining the new delegation information distribution mechanism.
-This document should include operational and deployment considerations.
-This is expected to be published as a standards-track RFC.
+- A specification defining the new delegation information distribution mechanism. The WG will carry out an operational impact assessment and include corresponding operational and deployment considerations sections in the specification. This is expected to be published as a standards-track RFC.
 
 - A specification for how to use the new delegation information to perform aliasing of delegation information.
 This is expected to be published as a standards-track RFC.
