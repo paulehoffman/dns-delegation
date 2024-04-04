@@ -28,6 +28,7 @@ This is expected to be published as an informational RFC.
 - A specification defining the new delegation information distribution mechanism. The WG will carry out an operational impact assessment and include corresponding operational and deployment considerations sections in the specification. This is expected to be published as a standards-track RFC.
 
 - A specification for how to use the new delegation information to perform aliasing of delegation information.
+It will include a concept of operations that describes how both current and future systems will interact in an Internet-wide interoperable way.
 This is expected to be published as a standards-track RFC.
 
 - A specification for facilitating the use of additional transports for DNS.
